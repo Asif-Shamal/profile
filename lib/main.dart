@@ -13,7 +13,7 @@ class ProfileCard extends StatelessWidget {
           name: 'M. Asif Shamal',
           email: 'asifshamal51@outlook.com',
           job: 'Software Engineer',
-          image: 'asset/img/scorpion.jpg', // Path to your image asset
+          image: 'asset/img/scorpion.jpg', 
         ),
       ),
     );
